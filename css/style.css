@@ -13,3 +13,9 @@ img{
         margin:0 auto;
         display: block;
 }
+
+@media(max-width:700px){
+    .bloco-form{
+         margin:20px!important;
+    }
+}
